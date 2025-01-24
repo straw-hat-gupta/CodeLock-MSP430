@@ -14,7 +14,7 @@ And so, this is what I came up with.
 
 Here’s a quick demo of the project in action:
 
-![name](https://github.com/user-attachments/assets/f0fcc957-7ee8-4496-b690-2d448bb9f368)
+![Lock Demo Video](https://github.com/user-attachments/assets/f0fcc957-7ee8-4496-b690-2d448bb9f368)
 
 ---
 ## The Tech Stack
