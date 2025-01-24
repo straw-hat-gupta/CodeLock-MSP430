@@ -14,7 +14,9 @@ And so, this is what I came up with.
 
 Here’s a quick demo of the project in action:
 
-<video controls src="assets/keypad_lock_demo.mp4" title="Title"></video>
+[![Watch the video]]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/straw-hat-gupta/CodeLock-MSP430/blob/main/assets/keypad_lock_demo.mp4))
+
+
 ---
 ## The Tech Stack
 
