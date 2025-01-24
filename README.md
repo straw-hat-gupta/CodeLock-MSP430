@@ -14,8 +14,7 @@ And so, this is what I came up with.
 
 Here’s a quick demo of the project in action:
 
-[![Watch the video]]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/straw-hat-gupta/CodeLock-MSP430/blob/main/assets/keypad_lock_demo.mp4))
-
+![name](https://github.com/user-attachments/assets/f0fcc957-7ee8-4496-b690-2d448bb9f368)
 
 ---
 ## The Tech Stack
